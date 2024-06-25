@@ -1,9 +1,0 @@
-# Neovim spell files
-*.spl
-*.sug
-
-# Lua-language-server config
-.luarc.json
-
-# Lazy.nvim lock file
-/lazy-lock.json
